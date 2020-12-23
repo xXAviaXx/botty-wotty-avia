@@ -15,8 +15,10 @@ module.exports = {
 		{ name: 'Buckingham Palace', value: 'https://discord.gg/ycZEejs', inline: true },
         { name: 'House of Parliament', value: 'https://discord.gg/FpC9z3F', inline: true },
 		{ name: 'British Armed Forces', value: 'https://discord.gg/ZBXsP4HZ9z', inline: true },
+		{ name: 'Metropolitan Police Service', value: 'https://discord.gg/UJPqCvNeNR', inline: true },
 		{ name: 'British Armed Forces', value: 'https://www.roblox.com/groups/8639804/UK-British-Armed-Forces#!/about', inline: true },
 		{ name: 'Royal Household', value: 'https://www.roblox.com/groups/8182430/Royal-Household#!/about', inline: true },
+		{ name: 'Metropolitan Police Service', value: 'https://www.roblox.com/groups/8684270/UK-Metropolitan-Police-Service#!/about', inline: true },
 		{ name: 'Main Group', value: 'https://www.roblox.com/groups/8617636/UK-United-Kingdom#!/about', inline: true },
 	)
 	.addField('Our Main Roblox Group:', 'https://www.roblox.com/groups/8617636/UK-United-Kingdom#!/about', true)
